@@ -1,11 +1,11 @@
-echo "body {
+body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 header {
-    background: #4CAF50;
+    background: #d419b2;
     color: white;
     padding: 1em;
     text-align: center;
@@ -18,4 +18,4 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-}" >
+}
